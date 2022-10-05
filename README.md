@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I play valorant , watch anime , dance and mimic people I like , xD**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/83108253/187276323-02cccde4-0411-41e8-8d37-981f5776fcaa.gif"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/83108253/187276323-02cccde4-0411-41e8-8d37-981f5776fcaa.gif"/> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theyashgrover&show_icons=true&locale=en" alt="theyashgrover" /></p>
 
-<!-- ![Let's develop together](https://user-images.githubusercontent.com/83108253/187276177-3f7b4476-0544-4cd5-b7b1-73e34cb7d05f.gif) -->
+![Let's develop together](https://user-images.githubusercontent.com/83108253/187276177-3f7b4476-0544-4cd5-b7b1-73e34cb7d05f.gif) 
