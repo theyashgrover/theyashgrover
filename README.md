@@ -38,6 +38,4 @@
   
  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theyashgrover&show_icons=true&locale=en" alt="theyashgrover" /></p>
-
 ![Let's develop together](https://user-images.githubusercontent.com/83108253/187276177-3f7b4476-0544-4cd5-b7b1-73e34cb7d05f.gif) 
