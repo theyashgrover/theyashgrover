@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://medium.com/@coolyofandom](https://medium.com/@coolyofandom)
 
-- 💬 Ask me about **Android Application Development , Frontend Web Development and Community Management**
+- 💬 Ask me about **Android Application Development ,Frontend Web Development, UX and Community Management**
 
 - ⚡ Fun fact **I play valorant , watch anime , dance and mimic people I like , xD**
 
