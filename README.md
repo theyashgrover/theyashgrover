@@ -5,7 +5,7 @@
 
 - 🙂 Pronouns -> he/him
 
-- 📝 I write articles on [https://medium.com/@coolyofandom](https://medium.com/@coolyofandom)
+- 📝 I write articles on [(https://grover.hashnode.dev/)](https://grover.hashnode.dev/))
 
 - 💬 Ask me about **Android Application Development ,Frontend Web Development, UX and Community Management**
 
